@@ -5,6 +5,9 @@
   align-items: center;
   border-bottom: 0px;
   background: $white-color;
+  background-image: url('../assets/background.jpg');
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
   font-weight: 400;
   color: $dark-blue-text;
   padding: 0rem 5.6rem;
